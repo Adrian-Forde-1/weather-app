@@ -5,8 +5,6 @@ export const ForecastTemplate = props => {
   // icon.set("icon", Skycons.CLEAR_DAY);
   // icon.play();
 
-  console.log(props.weatherIcon);
-
   return (
     <div className="weather-data">
       <h1 className="day-name">{props.day.dayName}</h1>

@@ -15,7 +15,6 @@ import broken_cloud from "../SVGS/broken_cloud.svg";
 class WeatheForecast extends Component {
   render() {
     const information = this.props.weatherInfo;
-    console.log(information.day2.weatherDescription);
 
     let day1Weather = null;
     let day2Weather = null;
@@ -137,8 +136,6 @@ class WeatheForecast extends Component {
       day5Weather = storm;
     if (information.day5.weatherDescription === "snow") day5Weather = snow;
     if (information.day5.weatherDescription === "mist") day5Weather = cloud;
-
-    console.log(information.day1.weatherDescription);
 
     // let image = "";
 
