@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/weather-app/static/css/main.1586f561.chunk.css",
-    "main.js": "/weather-app/static/js/main.f5d30c2b.chunk.js",
-    "main.js.map": "/weather-app/static/js/main.f5d30c2b.chunk.js.map",
-    "runtime-main.js": "/weather-app/static/js/runtime-main.630a9fd3.js",
-    "runtime-main.js.map": "/weather-app/static/js/runtime-main.630a9fd3.js.map",
-    "static/js/2.af5ef84c.chunk.js": "/weather-app/static/js/2.af5ef84c.chunk.js",
-    "static/js/2.af5ef84c.chunk.js.map": "/weather-app/static/js/2.af5ef84c.chunk.js.map",
-    "index.html": "/weather-app/index.html",
-    "precache-manifest.53fac0c08f90f4a057c1b6995a7296b2.js": "/weather-app/precache-manifest.53fac0c08f90f4a057c1b6995a7296b2.js",
-    "service-worker.js": "/weather-app/service-worker.js",
-    "static/css/main.1586f561.chunk.css.map": "/weather-app/static/css/main.1586f561.chunk.css.map",
-    "static/media/broken_cloud.svg": "/weather-app/static/media/broken_cloud.c5de5631.svg",
-    "static/media/cloud.svg": "/weather-app/static/media/cloud.e972f64f.svg",
-    "static/media/overcast.svg": "/weather-app/static/media/overcast.f36a0ff0.svg",
-    "static/media/rain.svg": "/weather-app/static/media/rain.4fa3d2b3.svg",
-    "static/media/snow.svg": "/weather-app/static/media/snow.cb7d74c5.svg",
-    "static/media/storm.svg": "/weather-app/static/media/storm.30bad1dd.svg",
-    "static/media/sunny.svg": "/weather-app/static/media/sunny.056175ba.svg"
+    "main.css": "/DawnOfHopee/weather-app.git/static/css/main.1586f561.chunk.css",
+    "main.js": "/DawnOfHopee/weather-app.git/static/js/main.f8c51924.chunk.js",
+    "main.js.map": "/DawnOfHopee/weather-app.git/static/js/main.f8c51924.chunk.js.map",
+    "runtime-main.js": "/DawnOfHopee/weather-app.git/static/js/runtime-main.0d466406.js",
+    "runtime-main.js.map": "/DawnOfHopee/weather-app.git/static/js/runtime-main.0d466406.js.map",
+    "static/js/2.c4b3a60d.chunk.js": "/DawnOfHopee/weather-app.git/static/js/2.c4b3a60d.chunk.js",
+    "static/js/2.c4b3a60d.chunk.js.map": "/DawnOfHopee/weather-app.git/static/js/2.c4b3a60d.chunk.js.map",
+    "index.html": "/DawnOfHopee/weather-app.git/index.html",
+    "precache-manifest.bd427988a061b805c62805af8a42988b.js": "/DawnOfHopee/weather-app.git/precache-manifest.bd427988a061b805c62805af8a42988b.js",
+    "service-worker.js": "/DawnOfHopee/weather-app.git/service-worker.js",
+    "static/css/main.1586f561.chunk.css.map": "/DawnOfHopee/weather-app.git/static/css/main.1586f561.chunk.css.map",
+    "static/media/broken_cloud.svg": "/DawnOfHopee/weather-app.git/static/media/broken_cloud.c5de5631.svg",
+    "static/media/cloud.svg": "/DawnOfHopee/weather-app.git/static/media/cloud.e972f64f.svg",
+    "static/media/overcast.svg": "/DawnOfHopee/weather-app.git/static/media/overcast.f36a0ff0.svg",
+    "static/media/rain.svg": "/DawnOfHopee/weather-app.git/static/media/rain.4fa3d2b3.svg",
+    "static/media/snow.svg": "/DawnOfHopee/weather-app.git/static/media/snow.cb7d74c5.svg",
+    "static/media/storm.svg": "/DawnOfHopee/weather-app.git/static/media/storm.30bad1dd.svg",
+    "static/media/sunny.svg": "/DawnOfHopee/weather-app.git/static/media/sunny.056175ba.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.630a9fd3.js",
-    "static/js/2.af5ef84c.chunk.js",
+    "static/js/runtime-main.0d466406.js",
+    "static/js/2.c4b3a60d.chunk.js",
     "static/css/main.1586f561.chunk.css",
-    "static/js/main.f5d30c2b.chunk.js"
+    "static/js/main.f8c51924.chunk.js"
   ]
 }
