@@ -15,6 +15,7 @@ import broken_cloud from "../SVGS/broken_cloud.svg";
 class WeatheForecast extends Component {
   render() {
     const information = this.props.weatherInfo;
+    console.log(information.day2.weatherDescription);
 
     let day1Weather = null;
     let day2Weather = null;
@@ -31,6 +32,8 @@ class WeatheForecast extends Component {
       day1Weather = sunny;
     if (information.day1.weatherDescription === "few clouds")
       day1Weather = overcast;
+    if (information.day1.weatherDescription === "moderate rain")
+      day1Weather = rain;
     if (information.day1.weatherDescription === "scattered clouds")
       day1Weather = broken_cloud;
     if (information.day1.weatherDescription === "overcast clouds")
@@ -51,6 +54,8 @@ class WeatheForecast extends Component {
       day2Weather = sunny;
     if (information.day2.weatherDescription === "few clouds")
       day2Weather = overcast;
+    if (information.day2.weatherDescription === "moderate rain")
+      day2Weather = rain;
     if (information.day2.weatherDescription === "scattered clouds")
       day2Weather = broken_cloud;
     if (information.day2.weatherDescription === "overcast clouds")
@@ -71,6 +76,8 @@ class WeatheForecast extends Component {
       day3Weather = sunny;
     if (information.day3.weatherDescription === "few clouds")
       day3Weather = overcast;
+    if (information.day3.weatherDescription === "moderate rain")
+      day3Weather = rain;
     if (information.day3.weatherDescription === "scattered clouds")
       day3Weather = broken_cloud;
     if (information.day3.weatherDescription === "overcast clouds")
@@ -91,6 +98,8 @@ class WeatheForecast extends Component {
       day4Weather = sunny;
     if (information.day4.weatherDescription === "few clouds")
       day4Weather = overcast;
+    if (information.day4.weatherDescription === "moderate rain")
+      day4Weather = rain;
     if (information.day4.weatherDescription === "scattered clouds")
       day4Weather = broken_cloud;
     if (information.day4.weatherDescription === "overcast clouds")
@@ -111,6 +120,8 @@ class WeatheForecast extends Component {
       day5Weather = sunny;
     if (information.day5.weatherDescription === "few clouds")
       day5Weather = overcast;
+    if (information.day5.weatherDescription === "moderate rain")
+      day5Weather = rain;
     if (information.day5.weatherDescription === "scattered clouds")
       day5Weather = broken_cloud;
     if (information.day5.weatherDescription === "overcast clouds")
