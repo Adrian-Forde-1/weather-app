@@ -2,7 +2,7 @@
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DawnOfHopee/weather-app.git",
+  "homepage": "https://github.com/DawnOfHopee/weather-app/",
   "dependencies": {
     "@material-ui/core": "^4.6.1",
     "chart.js": "^2.9.3",
